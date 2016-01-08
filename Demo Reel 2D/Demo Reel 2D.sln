@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{74D55A59-8CEB-D776-F0C1-276D02E90C98}") = "Demo Reel 2D", "Assembly-CSharp.csproj", "{7CBD9492-2405-4685-2BF5-B6574317F24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBD9492-2405-4685-2BF5-B6574317F24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBD9492-2405-4685-2BF5-B6574317F24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBD9492-2405-4685-2BF5-B6574317F24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBD9492-2405-4685-2BF5-B6574317F24C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
